@@ -5,36 +5,36 @@
  * @authorId 437579806616322049
  * @invite PsNtzGeHuW
  * @donate https://www.paypal.me/konazumi
- * @website https://github.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual
- * @source https://github.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual/blob/main/release/tsukino-mito.base.css
+ * @website https://github.com
+ * @source https://github.com/blob/main/Moon-Rabbits-Dream-About-Virtual-main/release/tsukino-mito.base.css
  * @version 4
 */
 
 /*---------------------------------------------------------------
    Theme Import you can't disable this is the full theme dummy
 ---------------------------------------------------------------*/
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/tsukino-mito-base.css');
+@import url('https://githubusercontent.com');
 
 /*---------------------------------------------------------------
                Make it look Like Another Window
 ---------------------------------------------------------------*/
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css');
+@import url('https://githubusercontent.com');
 
 /*---------------------------------------------------------------
                         Custom Settings
 ---------------------------------------------------------------*/
 
 /* Animate the background */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-animation.css');
+@import url('https://githubusercontent.com');
 
 /* Add transparency for background images */
-/* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-image.css'); */
+/* @import url('https://githubusercontent.com'); */
 
 /* Pop Effect */
-@import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
+@import url("https://githubusercontent.com");
 
 /* Reverse the position of Server list and members */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/reverse.css');
+@import url('https://githubusercontent.com');
 
 /*------------------------------------------------------
                 all the customization
